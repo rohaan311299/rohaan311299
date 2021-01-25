@@ -1,18 +1,10 @@
-### Hi there 👋
+My name is Rohan,
+Currently I'm interning at Aapka Sahara Foundation as an Executive Band Member (web development manager).
+I am also the Tech Head at DJ LIT :- The Literary Society of DJSCE.
+I am a full stack Web Developer. I am currently exploring my options in the field of Data Science.
+I am open to make new connections and if you wanna work on some project and get to know me more, then check me out on Linkedin.
+Do Check my Website out too.
 
-<!--
-**rohaan311299/rohaan311299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My website:- https://rohankacheria.netlify.app/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-https://rohankacheria.netlify.app/
+LinkedIn:- https://www.linkedin.com/in/rohan-kacheria-210ba1190/

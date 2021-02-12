@@ -9,7 +9,7 @@ Do Check my <a href="https://rohankacheria.netlify.app/" target="_blank">Website
 
 
 ##I'm a student 
-- 🔭 I’m currently working on buliding my teck skills
+- 🔭 I’m currently working on buliding my tech skills
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on web dev and ML Projects
 

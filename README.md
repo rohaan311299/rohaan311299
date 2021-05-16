@@ -8,7 +8,7 @@ I am open to make new connections and if you wanna work on some project and get 
 Do Check my <a href="https://rohankacheria.netlify.app/" target="_blank">Website</a> out too.</p>
 
 
-##I'm a student 
+### I'm a student 
 - 🔭 I’m currently working on buliding my tech skills
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on web dev and ML Projects

@@ -5,7 +5,7 @@
 I am the Tech Head at DJ LIT :- The Literary Society of DJSCE.
 I am a full stack Web Developer, Data Analyst and a Machine Learning enthusiast
 I am open to make new connections and if you want to work on some project together or have a conversation with me or get to know me, then please connect with me out on Linkedin or my social media.
-Do Check my <a href="https://rohankacheria.netlify.app/" target="_blank">Website</a> out too.</p>
+Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Website</a> out too.</p>
 
 
 ### I'm a student 

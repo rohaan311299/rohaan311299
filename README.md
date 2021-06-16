@@ -30,6 +30,16 @@ Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Websi
 <a href="https://rohankacheriam.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 
+<!-- Rohan = {
+  Languages: [Python, Java, JavaScript, C],
+  Development:[HTML, CSS, JQuery, Bootstrap, React.JS, Node.JS, Express.JS, EJS, Flask],
+  Databases:[SQL, Firebase, MongoDB, Mongoose],
+  Data-Science:[Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, SpreadSheets, Google Analytics, Tableau],
+  Others:[Digital Marketing, Social Media Marketing, SEO, Wordpress, Wix, MS Office],
+  hobbies: ["Reading", "Working Out", "Party"]
+}
+ -->
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rohaan311299&show_icons=true&hide_border=true" />

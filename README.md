@@ -1,17 +1,16 @@
 ### Hi there I'm Rohan Kacheria
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaan311299" alt="Rohan Kacheria" /> </p>
-<p>I'm currently interning at Aapka Sahara Foundation as a Software Developer.
-I am the Tech Head at DJ LIT :- The Literary Society of DJSCE.
-I am a full stack Web Developer, Data Analyst and a Machine Learning enthusiast
-I am open to make new connections and if you want to work on some project together or have a conversation with me or get to know me, then please connect with me out on Linkedin or my social media.
+<p>I am the Mstrong>Tech Head</strong> at DJ LIT :- The Literary Society of DJSCE.
+I am a Software Developer, Data Analyst and a Machine Learning enthusiast,
+I am open to make new connections and if you want to work on some project together or have a conversation with me or get to know me, then please connect with me on Linkedin or my social media.
 Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Website</a> out too.</p>
 
 
 ### I'm a student 
 - 🔭 I’m currently working on buliding my tech skills
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on web dev and ML Projects
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on web dev and ML Projects as well as to do research work
 
 
 ### Connect With Me:

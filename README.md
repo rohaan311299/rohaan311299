@@ -4,6 +4,7 @@
 <p>
 I am a Software Developer and a Data Science enthusiast,
 I am open to making new connections. If you want to work on some project together or you want to get to know me, then please connect with me on Linkedin or my social media.
+I am an incoming graduate student at CMU in MISM for Fall 2022.
 Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Website</a> out too !</p>
 
 

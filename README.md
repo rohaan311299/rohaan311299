@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaan311299" alt="Rohan Kacheria" /> </p>
 <p>
-I am an incoming graduate student at CMU for Fall 2022 for the MISM course.
-I am a Software Developer and a Data Science enthusiast,
+I am an Master in Information Systems Management Graduate student at Carnegie Mellon University.
+I am open to work as a Software Develope, Data Scientist and a Product Manager.
 I am open to making new connections. If you want to work on some project together or you want to get to know me, then please connect with me on Linkedin or my social media.
 Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Website</a> out too !</p>
 

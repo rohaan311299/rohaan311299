@@ -41,7 +41,3 @@ Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Websi
 }
  -->
 
-  <summary>:zap: GitHub Stats</summary>
-
-</details>
-

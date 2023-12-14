@@ -43,14 +43,5 @@ Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Websi
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rohaan311299&show_icons=true&hide_border=true" />
-
-</details>
-
-
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Rohan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohaan311299" />
-
 </details>
 

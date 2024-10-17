@@ -23,15 +23,3 @@ I plan to reach out to experienced professionals in the industry to be mentored 
 </a>
 <a href="https://rohankacheriam.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
-
-<!-- Rohan = {
-Programming Languages: Java, JavaScript ES6, Python, R, C, C#
-Frontend: HTML5, CSS3, Bootstrap, JQuery, React.JS, Hooks, Redux Tailwind, Angular.JS, Swing, TypeScript, Next.JS, Vue.js, SASS
-Backend: Node.JS, Express.JS, EJS, Django, Flask, asp.Net, .Net core, Spring, Spring Boot, Php, Elixir
-Databases: Cloud Firestore, SQL(Oracle, MySQL Server, PostgreSQL, SQLite), NoSQL(MongoDB, Redis, BigQuery), GraphQL, LINQ
-Data Science: NumPy, Pandas, Matplotlib, SpaCy, SciPy, Altair, Plotnine, Plotly, BS4, Scrapy, Gazpacho, Sci-Kit learn, nltk, Vader, GraphX, Selenium, Hadoop, PySpark, SparkML, MRJob, MapReduce, Apache Spark, Excel, Hive, nlp, spark, Airflow, kafka, HDFS
-Tools: Postman, Git, Figma, Kanban, Jira, AWS, GCP, PowerBI, Tableau, Unix / Linux, Kubernetes, SCRUM, XML, Matlab, Heroku 
-
-}
- -->
-

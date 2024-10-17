@@ -2,17 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaan311299" alt="Rohan Kacheria" /> </p>
 <p>
-I am an Master in Information Systems Management Graduate student at Carnegie Mellon University.
-I am open to work as a Software Develope, Data Scientist and a Product Manager.
-I am open to making new connections. If you want to work on some project together or you want to get to know me, then please connect with me on Linkedin or my social media.
-Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Website</a> out too !</p>
+I love technology, I am passionate about solving business problems with the use of ever-evolving technology to improve people's efficiency and productivity in the workplace.
 
+I have used agile repeatable methodology, overarching frameworks, and my knowledge of software and architecture to enable that. I keep learning, contributing, and evolving through my experiences.
 
-### I'm a student 
-- 🔭 I’m currently working on buliding my tech skills
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on web dev and ML Projects as well as to do some research work
+I’ll continue to evolve my career in software engineering, full-stack code development, data science, and the power of analytics to create awe-inspiring products for customers and consumers. 
 
+I plan to reach out to experienced professionals in the industry to be mentored and coached along the way.
 
 ### Connect With Me:
 <!--
@@ -25,19 +21,17 @@ Do Check my <a href="https://rohankacheria31.netlify.app/" target="_blank">Websi
 <a href="https://www.linkedin.com/in/rohan-kacheria-210ba1190/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/rohaankacheriaa/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://rohankacheriam.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 
 <!-- Rohan = {
-  Languages: [Python, Java, JavaScript, C, C++],
-  Development:[HTML, CSS, JQuery, Bootstrap, React.JS, Node.JS, Express.JS, EJS, Flask],
-  Databases:[SQL, Firebase, MongoDB, Mongoose],
-  Data-Science:[Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, SpreadSheets, Google Analytics, Tableau],
-  Others:[Digital Marketing, Social Media Marketing, SEO, Wordpress, Wix, MS Office],
-  hobbies: ["Reading", "Working Out", "Party"]
+Programming Languages: Java, JavaScript ES6, Python, R, C, C#
+Frontend: HTML5, CSS3, Bootstrap, JQuery, React.JS, Hooks, Redux Tailwind, Angular.JS, Swing, TypeScript, Next.JS, Vue.js, SASS
+Backend: Node.JS, Express.JS, EJS, Django, Flask, asp.Net, .Net core, Spring, Spring Boot, Php, Elixir
+Databases: Cloud Firestore, SQL(Oracle, MySQL Server, PostgreSQL, SQLite), NoSQL(MongoDB, Redis, BigQuery), GraphQL, LINQ
+Data Science: NumPy, Pandas, Matplotlib, SpaCy, SciPy, Altair, Plotnine, Plotly, BS4, Scrapy, Gazpacho, Sci-Kit learn, nltk, Vader, GraphX, Selenium, Hadoop, PySpark, SparkML, MRJob, MapReduce, Apache Spark, Excel, Hive, nlp, spark, Airflow, kafka, HDFS
+Tools: Postman, Git, Figma, Kanban, Jira, AWS, GCP, PowerBI, Tableau, Unix / Linux, Kubernetes, SCRUM, XML, Matlab, Heroku 
+
 }
  -->
 
